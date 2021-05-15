@@ -40,3 +40,7 @@ thread_uid - идентификатор товара
 Файлы:
 
 CF(IB_cos_sim) - item-based CF, основанная на косинусном сходстве
+CF(IB_dice) - аналогично, но с метрикой dice
+CF(IB_jaccard) - аналогично, но с jaccard
+CF(UB) - CF user-based вариант
+ALS - Alternating Least Squares алгоритм
